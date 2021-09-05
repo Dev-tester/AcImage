@@ -1,0 +1,15 @@
+{
+  "name": "kirsenn/acimage",
+  "description": "Toolkit для ресайза и кропа изображений на PHP.",
+  "minimum-stability": "stable",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "kirsenn",
+      "email": "kirsenn@example.com"
+    }
+  ],
+  "require": {
+    "php": ">=7.1"
+  }
+}

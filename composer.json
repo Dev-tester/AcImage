@@ -1,7 +1,7 @@
 {
   "name": "kirsenn/acimage",
   "description": "Toolkit для ресайза и кропа изображений на PHP.",
-  "minimum-stability": "stable",
+  "type": "library",
   "license": "MIT",
   "authors": [
     {
@@ -14,7 +14,7 @@
   },
   "autoload": {
     "psr-4": {
-      "kirsenn\\acimage\\": ""
+      "kirsenn\\": "src/"
     }
   }
 }
